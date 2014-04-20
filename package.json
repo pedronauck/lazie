@@ -1,6 +1,6 @@
 {
   "name": "installScripts",
-  "version": "0.0.6",
+  "version": "1.0.0",
   "description": "NodeJS module that install my scripts JSHint and EditorConfig in some folder.",
   "author": "Pedro Nauck (http://www.github.com/pedronauck)",
   "dependencies": {
