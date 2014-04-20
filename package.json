@@ -1,14 +1,28 @@
 {
   "name": "installScripts",
-  "version": "0.0.2",
-  "author": "Pedro Nauck",
-  "preferGlobal": "true",
-  "directories": {
-    "bin": "./bin"
-  },
+  "version": "0.0.6",
+  "description": "NodeJS module that install my scripts JSHint and EditorConfig in some folder.",
+  "author": "Pedro Nauck (http://www.github.com/pedronauck)",
   "dependencies": {
-    "shelljs": "^0.2.6",
-    "optimist": "^0.6.1",
-    "cli-color": "^0.2.3"
-  }
+    "cli-color": "^0.2.3",
+    "nomnom": "^1.6.2"
+  },
+  "bin": {
+    "installScripts": "bin/installScripts"
+  },
+  "main": "./lib/installScripts.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pedronauck/installScripts.git"
+  },
+  "keywords": [
+    "installScripts",
+    "jshint",
+    "editorconfig"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pedronauck/installScripts/issues"
+  },
+  "homepage": "https://github.com/pedronauck/installScripts"
 }
