@@ -1,5 +1,5 @@
 {
-  "name": "installScripts",
+  "name": "lazie",
   "version": "1.0.0",
   "description": "NodeJS module that install my scripts JSHint and EditorConfig in some folder.",
   "author": "Pedro Nauck (http://www.github.com/pedronauck)",
@@ -8,21 +8,21 @@
     "nomnom": "^1.6.2"
   },
   "bin": {
-    "installScripts": "bin/installScripts"
+    "lazie": "bin/lazie"
   },
-  "main": "./lib/installScripts.js",
+  "main": "./lib/lazie.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/pedronauck/installScripts.git"
+    "url": "git://github.com/pedronauck/lazie.git"
   },
   "keywords": [
-    "installScripts",
+    "lazie",
     "jshint",
     "editorconfig"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pedronauck/installScripts/issues"
+    "url": "https://github.com/pedronauck/lazie/issues"
   },
-  "homepage": "https://github.com/pedronauck/installScripts"
+  "homepage": "https://github.com/pedronauck/lazie"
 }
