@@ -13,6 +13,7 @@ To install and use is very very simple:
 Usage: lazie [options]
 
 Options:
-   -j, --jshint         Install JSHint
    -e, --editorconfig   Install EditorConfig
+   -j, --jshint         Install JSHint
+   -b, --jsbeautify     Install JSBeautify
 ```

@@ -10,7 +10,7 @@
   "bin": {
     "lazie": "bin/lazie"
   },
-  "main": "./lib/lazie.js",
+  "main": "./index.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/pedronauck/lazie.git"

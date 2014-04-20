@@ -2,8 +2,8 @@
 
 var cli = require('cli-color'),
     nomnom = require('nomnom'),
-    createFile = require('./utils/createFile'),
-    options = require('./utils/argOptions.js'),
+    createFile = require('./lib/createFile'),
+    options = require('./lib/argOptions.js'),
     args = nomnom.script('lazie').options(options).parse();
 
 var error = cli.red.bold,
