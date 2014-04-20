@@ -1,0 +1,14 @@
+{
+  "name": "installScripts",
+  "version": "0.0.2",
+  "author": "Pedro Nauck",
+  "preferGlobal": "true",
+  "directories": {
+    "bin": "./bin"
+  },
+  "dependencies": {
+    "shelljs": "^0.2.6",
+    "optimist": "^0.6.1",
+    "cli-color": "^0.2.3"
+  }
+}
