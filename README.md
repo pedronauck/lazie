@@ -17,5 +17,3 @@ Standart options:
   -j, To install JSHint in your project
   -e, To install EditorConfig in your project
 ```
-
-Is that!
