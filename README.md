@@ -16,5 +16,3 @@ Options:
    -j, --jshint         Install JSHint
    -e, --editorconfig   Install EditorConfig
 ```
-
-Is that!
