@@ -13,7 +13,8 @@ To install and use is very simple:
 Usage: lazie [options]
 
 Options:
-   -e, --editorconfig   Install EditorConfig
-   -j, --jshint         Install JSHint
-   -b, --jsbeautify     Install JSBeautify
+   -e, --editorconfig   Install .editorconfig
+   -h, --jshint         Install .jshintrc
+   -j, --jsbeautify     Install .jsbeautifyrc
+   -b, --bowerrc        Install .bowerrc
 ```
